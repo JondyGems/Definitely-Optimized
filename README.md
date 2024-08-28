@@ -3,4 +3,4 @@
 
 ## Definitely Optimized is a collection of performence and QoL mods that improve the way you play and work with the game. It is designed to be easy for everyone.
 
-(this only contains the config files since they are the most useful information and dont require a file size limit)
+(source only contains the config files since they are the most useful information and dont require a file size limit)
