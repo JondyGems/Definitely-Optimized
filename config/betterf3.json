@@ -1,0 +1,37 @@
+{
+	"general": {
+		"disable_mod": false,
+		"hide_bossbar": true,
+		"shadow_text": false,
+		"auto_start": false,
+		"animationSpeed": 1.0,
+		"always_show_ping": false,
+		"hide_debug_crosshair": false,
+		"background_color": 16777215,
+		"space_modules": false,
+		"always_show_profiler": false,
+		"animations": false,
+		"fontScale": 1.5,
+		"hide_sidebar": true,
+		"always_show_tps": false
+	},
+	"modules_right": [],
+	"modules_left": [
+		{
+			"color_x": 16777215,
+			"color_y": 16777215,
+			"color_z": 16777215,
+			"name": "coords",
+			"name_color": 2565927,
+			"lines": {
+				"chunk_coords": true,
+				"player_coords": true,
+				"block_coords": true,
+				"velocity": true,
+				"chunk_relative_coords": true,
+				"abs_velocity": true
+			},
+			"enabled": true
+		}
+	]
+}

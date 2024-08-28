@@ -1,0 +1,16 @@
+{
+  "configVersion": 6,
+  "renderNametagsThroughWalls": true,
+  "blockEntityWhitelist": [],
+  "entityWhitelist": [],
+  "tracingDistance": 128,
+  "debugMode": false,
+  "sleepDelay": 10,
+  "hitboxLimit": 50,
+  "skipMarkerArmorStands": true,
+  "tickCulling": true,
+  "tickCullingWhitelist": [],
+  "disableF3": false,
+  "skipEntityCulling": false,
+  "skipBlockEntityCulling": false
+}
