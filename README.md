@@ -13,6 +13,7 @@ Including a lot of QoL features and modifications, that makes your game beautifu
 - First Person Model
 - FlashBack
 - Freecam
+- Gamingbarns Morphs
 - Motion Capture
 - OrthoCamera
 - Unbound FOV
@@ -55,8 +56,7 @@ Including a lot of QoL features and modifications, that makes your game beautifu
 > This was the **highest priority** in the modpack. You will appreacite the benefits for your **content creation** journey. 
 
 ![Detach Camera](https://cdn.modrinth.com/data/cached_images/ff06688d212576ffc13a8e431d0b384338929d1e.png)
-
-![Fortnite POV](https://cdn.modrinth.com/data/cached_images/d5c86ac5cb437f289811918f0b00edb4b10bb130.png)
+![Flashback](https://cdn.modrinth.com/data/cached_images/39273ac6611cb8c017bad7e61cb95f2d6a415ab0.png)
 
 The experience of the first person and the third has been upgraded. **I added a lot** of mods for **different styles** of gameplay and usecase.
 
@@ -70,4 +70,4 @@ The experience of the first person and the third has been upgraded. **I added a 
 
 Ambiance of sounds and slight details can **change your game** drasticly. Particles, Music, Sound effects, well, **we got that covered**!
 
-**Designed for Creators & Creatives, pre-configured with the best settings.**
+### Have you experienced any issues? [Report them](https://github.com/JondyGems/Definitely-Optimized/issues) and they will get resolved!
